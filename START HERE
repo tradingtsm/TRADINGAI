@@ -1,0 +1,4 @@
+Before starting to code ml algorithms for trading, you must first understand the basics of trading and the basics of algorithms, I will sum it up for you.
+
+trading : 1.To win you must anticipe other people behaviour 2.You win when others lose 3.People trades with their emotions or their logic
+machine learning : 1.There must exist a repetitive pattern for the ml algorithm to learn, if not, the precisión will be low 2.Data is the key, put all your focus on having quality data 3.Don't overfit or underfit your algorithm
